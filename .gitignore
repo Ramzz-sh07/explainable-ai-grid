@@ -220,3 +220,6 @@ __marimo__/
 !data/processed/.gitkeep
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+src/models/*.pkl
+src/models/*.npy
+notebooks/mlflow.db
