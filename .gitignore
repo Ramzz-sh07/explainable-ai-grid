@@ -223,3 +223,9 @@ __marimo__/
 src/models/*.pkl
 src/models/*.npy
 notebooks/mlflow.db
+data/raw/era5_2021/
+data/raw/era5_2022/
+data/raw/era5_2023/
+data/raw/*.nc
+data/raw/*.parquet
+data/processed/*.parquet
